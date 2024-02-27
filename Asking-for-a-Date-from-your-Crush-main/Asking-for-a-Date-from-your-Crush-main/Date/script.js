@@ -23,5 +23,4 @@ no.addEventListener('click', noAnswerMethod)
 yes.addEventListener('click', yesAnswerMethod)
 
 document.getElementById("fix").addEventListener("click", function(){
-    window.location= "https://wa.me/+917307596161?text=Chalo date pr chalein !!!!! ";
-}, false);
+    window.location= "https://wa.me/+917307596161?text=CHALO DATE PE CHALEIN !! ";}, false);

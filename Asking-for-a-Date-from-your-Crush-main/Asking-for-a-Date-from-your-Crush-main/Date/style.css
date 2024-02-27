@@ -60,15 +60,15 @@ body, html{
 
 #fix{
    margin-top: 30px;
-       border: none;
-       width: 400px;
-       height: 50px;
-       font-size: 30px;
-       border-radius: 10px;
-       background: none;
-       backdrop-filter: blur(5px);
-       border: 1px solid black;
-       font-weight: 550;
+   border: none;
+   width: 400px;
+   height: 50px;
+   font-size: 30px;
+   border-radius: 10px;
+   background: none;
+   backdrop-filter: blur(5px);
+   border: 1px solid black;
+   font-weight: 550;
 }
 .container{
    width: 400px;
@@ -86,8 +86,6 @@ body, html{
    align-items: center;
    width:100%;
    height: 300px;
-   
-
 }
 
 .gifimg{
@@ -163,15 +161,15 @@ body, html{
 
    #fix{
        margin-top: 30px;
-           border: none;
-           width: 250px;
-           height: 50px;
-           font-size: 30px;
-           border-radius: 10px;
-           background: none;
-           backdrop-filter: blur(5px);
-           border: 1px solid black;
-           font-weight: 550;
+       border: none;
+       width: 250px;
+       height: 50px;
+       font-size: 30px;
+       border-radius: 10px;
+       background: none;
+       backdrop-filter: blur(5px);
+       border: 1px solid black;
+       font-weight: 550;
    }
 
    .confirmation{
